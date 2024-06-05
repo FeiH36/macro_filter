@@ -3,7 +3,7 @@
 `macro_filter` is a command-line tool designed to process source files based on specified macro conditions. It can filter code sections enclosed within macro directives and copy files or directories while considering the specified configuration.
 
 
-- Readme [English](readme.md)
+- Readme [English](README.md)
 - 读我 [简体中文](readme/readme_cn.md)
 
 ## Features
